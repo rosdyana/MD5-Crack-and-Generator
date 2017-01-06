@@ -1,4 +1,8 @@
 <?php
+/*
+* Copyright 2017 Rosdyana Kusuma.
+* Licensed under the Apache License, Version 2.0
+*/
 set_time_limit(0);
 //////////////////////////////////////////
 // CONFIGURATION WORLDLISTS
